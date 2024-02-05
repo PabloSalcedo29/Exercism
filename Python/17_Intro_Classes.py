@@ -45,6 +45,7 @@ class Alien:
     def collision_detection(self, object_x):
         pass
 
+
 def new_aliens_collection(pos):
     aliens = []
     for coord in pos:
